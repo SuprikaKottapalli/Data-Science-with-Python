@@ -1,0 +1,12 @@
+Data Science
+Studying about that which is in various
+types of data
+Num,text,img,audio,vedio 
+Data must not be Zero or Negative
+
+
+Numpy is a module used to hold or create the data in the num format as an array and performs all kinds of manipulations on the array
+i) mathematical cal
+ii) Algebra cal
+iii) Statistics
+  
